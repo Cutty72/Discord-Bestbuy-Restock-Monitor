@@ -1,12 +1,12 @@
 # Discord Bestbuy Restock Monitor
 
-Monitor out of stock Bestbuy products and get alerted as soon as they are back in stock.
+Monitor out of stock Bestbuy products and get alerted as soon as they are back in stock. Make sure to input sku and webhook in the code first
 
 ### Usage
+
 ```
-    install dependencies
-    add Discord Webhook and SKU 
-    run "ts-node monitor.ts"
+    npm install
+    ts-node monitor.ts
 ```
 
 ## License
